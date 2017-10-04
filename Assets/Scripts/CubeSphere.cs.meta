@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7e979c41489bce4eba2f1dd6a845d49
+timeCreated: 1506959334
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Xmaterial: {fileID: 2100000, guid: 3cfc3b118d802a74cb2a76cd9a406a98, type: 2}
+  - Ymaterial: {fileID: 2100000, guid: b22061e53bf0f1b47852c49cadf53628, type: 2}
+  - Zmaterial: {fileID: 2100000, guid: 0228c30b635ffa3498998885540f626e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
